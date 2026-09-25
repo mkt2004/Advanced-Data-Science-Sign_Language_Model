@@ -1,4 +1,4 @@
-# Advanced Data Science - Sign Language Model
+# Sign Language Model Instructions
 Group 1 Advanced Data Science Image processing model to detect sign language characters
 
 ========================
